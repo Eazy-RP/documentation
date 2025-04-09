@@ -11,11 +11,11 @@
 	"navigation": {
 		"tabs": [
 			{
-				"tab": "Normativa General",
+				"tab": "Normativas",
 				"groups": [
 					{
-						"group": "Index",
-						"pages": ["normativa/index"]
+						"group": "Normativas",
+						"pages": ["normativas/index"]
 					}
 				]
 			}
