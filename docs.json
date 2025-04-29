@@ -7,7 +7,7 @@
 		"light": "#65ff00",
 		"dark": "#15803D"
 	},
-	"favicon": "/favicon.svg",
+	"favicon": "/logo/logo.png",
 	"navigation": {
 		"tabs": [
 			{
@@ -16,6 +16,14 @@
 					{
 						"group": "Normativas",
 						"pages": ["normativas/index"]
+					},
+					{
+						"group": "Normativas de Facciones Legales",
+						"pages": ["normativas/facciones/lspd"]
+					},
+					{
+						"group": "Normativas de Empresas",
+						"pages": ["normativas/empresas/index", "normativas/empresas/eventos"]
 					}
 				]
 			}
